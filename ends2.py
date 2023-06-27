@@ -1,0 +1,1 @@
+lambda n:sum([1 for i in range(1,n+1) if str(i)[-1]=='2'])

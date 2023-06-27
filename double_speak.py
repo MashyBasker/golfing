@@ -1,0 +1,1 @@
+print("".join([x+x for x in input()]))
